@@ -1,0 +1,2 @@
+My first Git project!
+My first staging!
